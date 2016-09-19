@@ -33,5 +33,5 @@ Singleton.getInstance();
 // function Test1()
 // {
 // };
-// let s = new Singleton(Test1); // i's will be error !!
+// let s = new Singleton(Test1); // it's will be error !!
 
